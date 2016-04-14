@@ -1,0 +1,5 @@
+canvas{
+	display: block;
+	margin: 40px auto;
+	box-shadow: 5px 5px 5px rgba(0,0,0,0.3);
+}
